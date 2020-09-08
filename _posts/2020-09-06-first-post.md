@@ -7,6 +7,6 @@ This is my **first post**.
 
 [One of my favorite websites](https://www.moes.com/)
 
-![Profile Picture](https://nicholasbranch.github.io/NicholasBranch/images/profile.jpg)
+![Profile Picture](https://NicholasBranch.github.io/NicholasBranch/images/profile.jpg)
 
 ---
