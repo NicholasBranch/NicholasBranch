@@ -8,7 +8,7 @@ Project: **What America Ate**
 Project Director(s): **Dean Rehberger**
 
 Project URL:
-**[whatamericaate.org](whatamericaate.org)**
+**[whatamericaate.org](https://whatamericaate.org/)**
 
    When the American societal norms crumbled like an abandoned home during the Great Depression, the members of both the high and low class were drastically affected in unforeseen ways. One of these unforeseen ways was through the prices at restaurants. As the prices continued to rise for food, and the economy worsened, the restaurant industry began to reflect those drastic changes. The menus of this era in history provide potential markers for possible economic downturns, which is why the collection of them at What America Ate could not only be used for historical reference purposes but also for educational purposes. 
 
