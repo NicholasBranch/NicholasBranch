@@ -4,13 +4,13 @@ title: What America Ate Review
 ---
 
 # Project:
-Project Name
+What America Ate 
 
 ## Project Director(s):
-Project Director Name
+
 
 ### Project URL:
-Project URL
+[whatamericaate.org](whatamericaate.org)
 
 …every current economist must be constantly updating approaches on how to best serve a possible customer base and identify how these shifts will affect the economy at large. While the economy will continue to shift, the main principles that are taught by the [Christopher Newport University Economics](https://cnu.edu/academics/departments/economics/) department are still relevant to the overall economy. This mixture of fast paced behavior and reliance towards proven techniques greatly defines my career and personality.   
 
