@@ -3,14 +3,8 @@ layout: post
 title: What America Ate Review
 ---
 
-Project:
-
-What America Ate 
-
-Project Director(s): 
-
-
-
+Project: What America Ate 
+Project Director(s): Dean Rehberger
 Project URL:
 [whatamericaate.org](whatamericaate.org)
 
