@@ -3,7 +3,7 @@ layout: post
 title: What America Ate Review
 ---
 
-Project: **What America Ate** 
+**Project:** What America Ate** 
 
 Project Director(s): **Dean Rehberger**
 
