@@ -14,26 +14,9 @@ Project Director(s):
 Project URL:
 [whatamericaate.org](whatamericaate.org)
 
-…every current economist must be constantly updating approaches on how to best serve a possible customer base and identify how these shifts will affect the economy at large. While the economy will continue to shift, the main principles that are taught by the [Christopher Newport University Economics](https://cnu.edu/academics/departments/economics/) department are still relevant to the overall economy. This mixture of fast paced behavior and reliance towards proven techniques greatly defines my career and personality.   
-
-As a Senior at CNU, the ambitious nature of business has propelled me to further explore possible career fields, developing early on my passion for microeconomics. Specifically, I am pursuing the study of the economic effects of modernizing the customer service industry across different markets. 
-
-With many years of experience in the customer service industry, below is a list of all the different locations I have worked in a customer service capacity in the past:
-- [Trible Library Media Center](https://cnu.libguides.com/mediacenter)
-
-
-- [Home Depot (Store# 8551)](https://www.homedepot.com/l/S-Riding/VA/Chantilly/20152/8551)
-
-
-- [VT IDirect (now ST Engineering IDirect)](https://www.idirect.net/)
-
-
-- [The Fitness Equation (South Riding)](https://thefitnessequation.com/locations/south-riding/)
-
-Just as there is a balance within the economics field, my personal life has also embraced that as well. I am actively involved in the Marching Captains, the marching band on campus. This has allowed me oppurtunities to meet interesting people, in fields I had never known existed, until joining the band. While I am engaged with the Marching Captains and being a student at CNU, one of the most relaxing parts of my day is returning to my Russian tortoise Spike. 
-
-![Spike](https://NicholasBranch.github.io/NicholasBranch/images/spike.png)
-
-While Spike is not your average pet, my little buddy and I have had many adventures. If you would like to hear more about my work in Economics or just want to learn more about the adventures of Spike, my email is nicholas dot branch dot seventeen at CNU dot edu or you can follow me on Twitter [@NBranch1005](https://twitter.com/NBranch1005).  
+When the American societal norms crumbled like an abandoned home during the Great Depression, the members of both the high and low class were drastically affected in unforeseen ways. One of these unforeseen ways was through the prices at restaurants. As the prices continued to rise for food, and the economy worsened, the restaurant industry began to reflect those drastic changes. The menus of this era in history provide potential markers for possible economic downturns, which is why the collection of them at What America Ate could not only be used for historical reference purposes but also for educational purposes. 
+A clean design aesthetic brings with it an air of professionalism that spreads throughout the digital humanities project. The simplicity of the menus allow for easy access to desired functions, such as the interactive map for different menus from each region and the search section for returning to a menu that you might have viewed previously. Tooling for the website also allows for the visual display on many different devices, which provides more opportunities to share the project with more viewers. This dedication to user interaction is most definitely what brought about the support of the National Endowment of the Humanities, which provides significant funding and oversight for the project. The visual implication of the text is unparalleled in projects that I have witnessed. 
+Each menu is expertly enlarged and isolated during viewing to allow for complete access to the source material, while a scroll down will provide additional sources to be previewed in a smaller and more digestible form. The elegant design attached with each menu in the catalog comes with a transcribed version so that viewers can easily understand the prices and items on each menu. The menus also have detailed descriptions and how each item was priced for the particular time in history, helping to provide historical context and intriguing the audience to continue looking at the descriptions of the other sources. A continued focus on exploration underlies the directional menu system and visual display for the continuation of research and learning. While not directly intended for a younger audience, the relative ease of use and simplistic design would provide an invaluable teaching tool for those wanting to learn more about life during the Great Depression. 
+While the article does a fantastic job of providing a powerful interactive experience, there are some possible improvements that could be made. The minimalism, while easy for digestion for the viewer, does not allow for the addition of more information and images that might help to explain the written descriptions.  
 
 ---
