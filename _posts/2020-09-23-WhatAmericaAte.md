@@ -26,4 +26,6 @@ While the article does a fantastic job of providing a powerful interactive exper
 
 The other concern I had with the project was the inability to join the project through the sign-in. When I tried to access the system, the CAPtcha form did not seem to be working. This could cause major problems down the line if new information were to arise.
 
+The project seemed well designed for the aesthetics, but in practice the technological side was not entirely flushed out.  
+
 
