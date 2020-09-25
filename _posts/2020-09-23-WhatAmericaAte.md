@@ -19,8 +19,12 @@ A clean design aesthetic as displayed below brings with it an air of professiona
  
 ![WAAPic2](https://NicholasBranch.github.io/NicholasBranch/images/WAAPic2.PNG)
 
-Each menu is enlarged and isolated during viewing to allow for complete access to the source material, while a scroll down will provide  sources to be previewed in a smaller and more digestible form. The elegant design attached with each menu in the catalog comes with a transcribed version so that viewers can understand the prices and items on each menu. The menus also have detailed descriptions and how each item was priced for the particular time in history, helping to provide historical context and intriguing the audience to continue looking at the descriptions of the other sources. A continued focus on exploration underlies the directional menu system and visual display for the continuation of research and learning. While not intended for a younger audience, the relative ease of use and simplistic design would provide an invaluable teaching tool for those wanting to learn more about life during the Great Depression.
+Each menu is enlarged and isolated during viewing to allow for complete access to the source material, while a scroll down will provide  sources to be previewed in a smaller and more digestible form. The menus have detailed descriptions and how each item was priced for the particular time in history, helping to provide historical context and intriguing the audience to continue looking at the descriptions of the other sources. A continued focus on exploration underlies the directional menu system and visual display for the continuation of research and learning. While not intended for a younger audience, the relative ease of use and simplistic design would provide an invaluable teaching tool for those wanting to learn more about life during the Great Depression.
 
 ![WAAPic3](https://NicholasBranch.github.io/NicholasBranch/images/WAAPic3.PNG)
 
-While the article does a fantastic job of providing a powerful interactive experience, there are some possible improvements. The minimalism, while easy for digestion for the viewer, does not allow for the addition of more information and images that might help to explain the written descriptions.
+While the article does a fantastic job of providing a powerful interactive experience, there are some possible improvements. The minimalism, while easy for digestion for the viewer, does not allow for more information and images that might help to explain the written descriptions. The simple fix for this would be to simply add more historical references on the page. 
+
+The only other large concern with the project was its inability to continue on transcribing for the project. When I tried to access the system, the CAPtcha form did not seem to be working. This could cause major problems down the line if new information were to arise. 
+
+
