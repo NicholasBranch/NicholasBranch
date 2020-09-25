@@ -25,6 +25,8 @@ Each menu can change size and isolated during viewing to allow for complete acce
 While the article does a fantastic job of providing a powerful interactive experience, there are some possible improvements. The minimalism, while easy for digestion for the viewer, does not allow for more information and images that might help to explain the written descriptions. The simple fix for this would be to add more historical references on the page.
 Other concerns I had with the project was the inability to join the project through the sign-in. When I tried to access the system, the CAPtcha form did not seem to be working. This could cause major problems down the line if new information were to arise. Hopefully, that could be fixed with a simple update to the project. 
 
+![WAAPic4](https://NicholasBranch.github.io/NicholasBranch/images/WAAPic4.PNG)
+
 The project seemed well designed for the aesthetics, but the project is not finished completely. Even though the project is very close to completion, continual adaptation is required for the best outcome possible.  I am excited to see the project continue to grow, and have people learn about the economics of The Great Depression.   One more push in the right direction, and the project will be complete. 
 
 
