@@ -13,7 +13,7 @@ title: First Crocs Grant Post
 
   These were the two main issues that occurred during the project, but there were many different positive aspects to the project. The organization of different steps of the project were very helpful in planning out the due dates. I was able to gauge the amount of time required for each part of the project, and then buckle down before it was time to meet the peer reviews. This provided markers for how close I was with my classmates, in case I need assistance and thought they could assist. The organization of the class was essential to my completion of the project, and hopefully this can continue through to the next class.
 
-![Tweet About Peer Review](https://NicholasBranch.github.io/NicholasBranch/images/Tweet 19.PNG)
+![Tweet About Peer Review](https://NicholasBranch.github.io/NicholasBranch/images/Tweet19.PNG)
 
   Another positive aspect of the project was the peer review process. While they provided markers for the progression of the project, the best part of the peer review process in my opinion was specifically the feedback. I have struggled with translating my writing into a clear and concise format for blog writing, and through the different peer reviews I believe I have become closer than ever before. With every different person’s writing that I reviewed and a new person that reviewed my work, I understood more and more the focus on the reader's perception. Hopefully, that has translated into this blog post.  
 
