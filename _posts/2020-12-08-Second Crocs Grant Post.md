@@ -5,6 +5,7 @@ title: First Crocs Grant Post
 
 #  As the project proposal comes closer to being due...
   
+  
   this is a perfect opportunity to review the different aspects of the project for the next class that attends this course. While there were many different facets of the project that were enlightening to complete, the nature of the project I have selected made the process more complex than most. As the project begins to come to a close, the best way to create a positive experience for future students is to identify possible stumbling blocks. 
 
   With my project, the fashion industry is so wide and commercialized, I seemed to run into a paywall for information regularly. While this was not an ideal for a project with relatively small overhead, the most influential informant was the Crocs website which is free, which helped significantly. I was able to bring together enough free information for the project, but the constant battle against the paywall could have been avoided. 
